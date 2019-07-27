@@ -1,3 +1,7 @@
+/**
+ * Implementation of Ebeida et al.'s algorithm for n-dimensional Poisson disk sampling
+ * in a hyperrectangular space.
+ */
 public class PoissonDiskSample {
 
     public Hyperrectangle area;
